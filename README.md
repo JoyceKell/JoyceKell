@@ -1,5 +1,5 @@
 ## Joyce Kelly
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-kelly-3985951a3/)](https://www.linkedin.com/in/joyce-kelly-3985951a3/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-kelly-3985951a3/)](https://www.linkedin.com/in/joyce-silva-3985951a3/)
 
 <p align="center"> 
   Visitor count<br>
