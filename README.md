@@ -34,6 +34,10 @@ const aboutMe = {
           tech: 'Bootstrap',
           level: 6,
         },
+         {
+          tech: 'Tailwind',
+          level: 7,
+        }
       ],
     },
     backEnd: {
