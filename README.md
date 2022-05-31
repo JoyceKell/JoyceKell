@@ -12,7 +12,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="250" src="https://i.ibb.co/vc8GtSp/new-game-ahagon-umiko-programming.gif" />
 
 ## **Linguagens e Ferramentas:**  
 
