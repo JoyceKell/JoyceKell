@@ -36,4 +36,3 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 [![Linkedin: JoyceKell](https://img.shields.io/badge/-JoyceKell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-kelly-3985951a3/)](https://www.linkedin.com/in/joyce-kelly-3985951a3/)
 [![Gmail Badge](https://img.shields.io/badge/-joyccekelly5.0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joyccekelly5.0@gmail.com)](mailto:joyccekelly5.0@gmail.com)
-![GitHub JoyceKell]( https://img.shields.io/github/followers/JoyceKell?label=follow&style=social)
