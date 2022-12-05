@@ -5,8 +5,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **engenharia de software** na Universidade Federal do Ceará.
-- 💼 &nbsp; Trabalhando como **Desenvolvedora web fullstack (Estágio)** na Appolus Tecnologia.
+- 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na Unicesumar.
+- 💼 &nbsp; Trabalhando como **Desenvolvedora NodeJs)** na Integra.do.
 - 🌱 &nbsp; Aprendendo mais sobre **React Native, React e Tailwind**.
 
 
