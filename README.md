@@ -6,7 +6,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na Unicesumar.
-- 💼 &nbsp; Trabalhando como **Desenvolvedora NodeJs)** na Integra.do.
+- 💼 &nbsp; Trabalhando como **Desenvolvedora NodeJs** na Integra.do.
 - 🌱 &nbsp; Aprendendo mais sobre **React Native, React e Tailwind**.
 
 
