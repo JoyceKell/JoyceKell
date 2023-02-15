@@ -25,5 +25,3 @@
 </p> 
 
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JoyceKell&repo=JoyceKell&theme=react)](https://github.com/JoyceKell/JoyceKell)
