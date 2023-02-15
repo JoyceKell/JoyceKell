@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:joyccekelly5.0@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joyccekelly5.0@gmail.com"/></a>
 
   <a href="https://www.linkedin.com/in/joyce-silva-3985951a3/" alt="Linkedin">
