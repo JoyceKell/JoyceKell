@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Olá! Meu nome é Joyce Silva e sou uma <strong>desenvolvedora fullstack<strong/> com habilidades em React e Node. Atualmente, estou trabalhando como desenvolvedora backend, onde estou continuamente aprimorando minhas habilidades de programação e desenvolvendo soluções de software para problemas do mundo real. Estou sempre procurando aprender coisas novas e ficar atualizada com as últimas tendências e tecnologias da minha área. Quando não estou trabalhando, gosto de me dedicar a projetos pessoais e contribuir com a comunidade de desenvolvimento de software.
+ Olá! Meu nome é Joyce Silva e sou uma Desenvolvedora Fullstack com habilidades em React e Node. Atualmente, estou trabalhando como desenvolvedora backend, onde estou continuamente aprimorando minhas habilidades de programação e desenvolvendo soluções de software para problemas do mundo real. Estou sempre procurando aprender coisas novas e ficar atualizada com as últimas tendências e tecnologias da minha área. Quando não estou trabalhando, gosto de me dedicar a projetos pessoais e contribuir com a comunidade de desenvolvimento de software.
 </p>
 
 <p align="left">
