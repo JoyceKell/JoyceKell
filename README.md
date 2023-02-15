@@ -24,3 +24,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-silva-3985951a3/"/></a>
 </p> 
 
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JoyceKell&repo=JoyceKell&theme=react)](https://github.com/JoyceKell/JoyceKell)
