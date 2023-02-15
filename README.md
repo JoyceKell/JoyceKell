@@ -1,38 +1,26 @@
-### Oie devs 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+<p align="left"> 
+ Olá! Meu nome é Joyce Silva e sou uma <strong>desenvolvedora fullstack<strong/> com habilidades em React e Node. Atualmente, estou trabalhando como desenvolvedora backend, onde estou continuamente aprimorando minhas habilidades de programação e desenvolvendo soluções de software para problemas do mundo real. Estou sempre procurando aprender coisas novas e ficar atualizada com as últimas tendências e tecnologias da minha área. Quando não estou trabalhando, gosto de me dedicar a projetos pessoais e contribuir com a comunidade de desenvolvimento de software.
+</p>
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<p align="left">
+  🦄 Linguagens: <strong>React, Node, MongoDb</strong>
+</p>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na Unicesumar.
-- 💼 &nbsp; Trabalhando como **Desenvolvedora NodeJs** na Integra.do.
-- 🌱 &nbsp; Aprendendo mais sobre **React Native, React e Tailwind**.
+<p align="left">
+  💼 Ferramentas: <strong>Studio3t, Postman, Insomnia, soapUI</strong>
+</p>
 
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joyccekelly5.0@gmail.com" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-silva-3985951a3/" /></a>
+</p> 
 
-## **Linguagens e Ferramentas:**  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-
-
-## **GitHub Estatísticas**
-
-<a href="https://github.com/JoyceKell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyceKell&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/JoyceKell">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoyceKell&show_icons=true&theme=dracula&line_height=27" alt="**JoyceKell** github stats"/>
-</a>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: JoyceKell](https://img.shields.io/badge/-JoyceKell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-kelly-3985951a3/)](https://www.linkedin.com/in/joyce-kelly-3985951a3/)
-[![Gmail Badge](https://img.shields.io/badge/-joyccekelly5.0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joyccekelly5.0@gmail.com)](mailto:joyccekelly5.0@gmail.com)
